@@ -1,8 +1,3 @@
-# Virtual environment
-.venv/
-venv/
-ENV/
-
 # Python caches and bytecode
 __pycache__/
 *.pyc
@@ -14,15 +9,16 @@ __pycache__/
 
 # Local environment variables
 .env
+
+# Large Binaries and heavy files
 audacity-linux-3.7.7-x64-22.04.AppImage
 *.AppImage
 *sonic*
 *Programming Lecture(Windows)*
-*.AppImage
-*Programming Lecture(Windows)*
+
+# External source code
 essentia/
-*.AppImage
-*Programming Lecture(Windows)*
-essentia/
+
+# Virtual environments
 .venv/
 venv/
