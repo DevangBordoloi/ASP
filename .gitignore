@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python caches and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Local environment variables
+.env
+audacity-linux-3.7.7-x64-22.04.AppImage
+*.AppImage
+*sonic*
+*Programming Lecture(Windows)*
+*.AppImage
+*Programming Lecture(Windows)*
+essentia/
+*.AppImage
+*Programming Lecture(Windows)*
+essentia/
+.venv/
+venv/
